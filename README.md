@@ -1,8 +1,12 @@
 ################### Machine Learning for InfoSEC ###################################
 
-Malware detection with API Calls, PE Headers, and Deep Learning.
+The scripts will help us with our security investigations.
+We are using machine learning algorithms with python to predict and train our model to become more resistance to attacks:
 
-Bots, Advanced Persistent Threats & Anomaly detection with ML and ELK. 
+        Malware detection with API Calls, PE Headers, and Deep Learning.
+        Bots, Advanced Persistent Threats & Anomaly detection with ML and ELK. 
+
+Let's build up our machine where our code will run.
 
 ##### Installation steps:
 
@@ -19,12 +23,12 @@ Bots, Advanced Persistent Threats & Anomaly detection with ML and ELK.
 4. kali~/mlfs_project/mlfs_project# pip install keras 
 5. kali~/mlfs_project/mlfs_project# pip install pandas
 6. kali~/mlfs_project/mlfs_project# pip install matplotlib
-7. pip install -U scikit-learn
-8. pip install -U nltk
+7. kali~/mlfs_project/mlfs_project# pip install -U scikit-learn
+8. kali~/mlfs_project/mlfs_project# pip install -U nltk
         >>> nltk.download()
                 install all packages
                 
                 
-9. pip install Theano 
-10. Install anaconda
+9. kali~/mlfs_project/mlfs_project# pip install Theano 
+10. Install anaconda. https://docs.anaconda.com/anaconda/install/
 
